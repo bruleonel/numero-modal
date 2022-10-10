@@ -1,0 +1,15 @@
+C:\estudos.dotNet\ExemploExplorando\moda\bin\Debug\net6.0\moda.exe
+C:\estudos.dotNet\ExemploExplorando\moda\bin\Debug\net6.0\moda.deps.json
+C:\estudos.dotNet\ExemploExplorando\moda\bin\Debug\net6.0\moda.runtimeconfig.json
+C:\estudos.dotNet\ExemploExplorando\moda\bin\Debug\net6.0\moda.dll
+C:\estudos.dotNet\ExemploExplorando\moda\bin\Debug\net6.0\moda.pdb
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.csproj.AssemblyReference.cache
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.AssemblyInfoInputs.cache
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.AssemblyInfo.cs
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.csproj.CoreCompileInputs.cache
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.dll
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\refint\moda.dll
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.pdb
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\moda.genruntimeconfig.cache
+C:\estudos.dotNet\ExemploExplorando\moda\obj\Debug\net6.0\ref\moda.dll

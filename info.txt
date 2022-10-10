@@ -1,0 +1,41 @@
+Console.WriteLine("Digite o tamanho do seu vetor: ");
+int n = int.Parse(Console.ReadLine());
+        
+int[] num = new int[n];
+
+for (int i = 0; i < n; i++)
+{
+
+    Console.WriteLine("Digite o número da " + (i+1) +"° posição do seu vetor:");
+    num[i] = int.Parse(Console.ReadLine());
+}
+Console.WriteLine(Moda(num));
+
+static int Moda(int[] n)
+{
+    int rep = 0;
+    int maior = n[0];
+    int count = 1;
+
+    for (int i = 0; i < n.Length; i++)
+    {
+        if (maior != n[i])
+        {
+            maior = n[i];
+            count++;
+        }
+        else
+        {
+            if (maior == n[i])
+            {   
+                rep = n[i];
+                count++;
+            }
+            else
+            {
+                count--;
+            }
+        }
+    }
+        return rep;
+}
